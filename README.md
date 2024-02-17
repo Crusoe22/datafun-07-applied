@@ -1,7 +1,7 @@
 # datafun-07-applied
 
 ### Description
-
+This project is meant to have machine learning capabilities using python code. 
 
 ### Environment Setup and How to Install and Run the Project
 
