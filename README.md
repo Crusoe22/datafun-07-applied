@@ -22,7 +22,7 @@ This Jupyter Notebook contains a machine learning project focusing on predicting
    - [Section 2: Test the Model](#section-2---test-the-model)
    - [Section 3: Predict](#section-3---predict)
    - [Section 4: Visualizations](#section-4---visualizations)
-6. [Part 4 - Bonus: California Housing Data](#part-4---bonus)
+6. [Part 5 - Bonus: California Housing Data](#part-4---bonus)
    - [Load the Dataset](#load-the-dataset)
    - [Exploring the Data](#exploring-the-data)
    - [Visualize the Features](#visualize-the-features)
@@ -101,7 +101,7 @@ Visualization of NYC temperature prediction using Seaborn.
 ## Part 3 - NYC Temperature Prediction (Continued)<a name="part-3"></a>
 Continuation of NYC temperature prediction, including model training, testing, prediction, and visualization.
 
-## Part 4 - Bonus: California Housing Data<a name="part-4---bonus"></a>
+## Part 5 - Bonus: California Housing Data<a name="part-4---bonus"></a>
 Exploration of California housing data, including data loading, exploration, visualization, model training, testing, evaluation, and selection.
 
 For further details and insights, please refer to the specific sections within the notebook.
